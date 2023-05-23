@@ -34,6 +34,7 @@ If you refresh the page or return to the planner at a later time, your saved eve
 
 ## Link To Application
 
+https://butlerem.github.io/work-day-scheduler/
 
 ## Credits
 
